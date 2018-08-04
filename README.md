@@ -1,4 +1,4 @@
-# images
+# ImageBrowser
 
 ## Project setup
 ```
